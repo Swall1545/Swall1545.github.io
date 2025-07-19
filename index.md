@@ -29,13 +29,42 @@ Explore my work, read about my projects, and connect with me below.
 - REST APIs, Modular Code Design
   
 ## Project Write-Ups
-*In-depth analyses of selected academic and applied data science projects. Code available for review by potential employers upon request.*
-| Project | Description | Write-Up | Skills |
-|---------|-------------|----------|--------|
-| Alzheimer’s Prediction | Random forest model for early detection and risk stratification. | [PDF](path/to/Wallace_D797_Writeup.pdf) | Python, ML, SHAP |
-| Ambulance Dispatch | Dijkstra vs. Floyd-Warshall route optimization. | [PDF](path/to/Task1_Applied_Algorithms.pdf) | Python, Algorithms |
-| Air Quality Forecasting | Feature engineering and XGBoost tuning for pollutant prediction. | [PDF](path/to/D682_Task_Final_Version.pdf) | Python, XGBoost, SHAP |
-| Edge AI Capstone | MLIR operator fusion for edge ML performance. | [PDF](path/to/Capstone_Final_S_Wallace.pdf) | MLIR, C++, Compiler |
+
+*In-depth analyses of selected data science and AI projects. Code available for review by potential employers upon request.*
+
+---
+
+**Alzheimer’s Disease Progression Prediction (D797)**
+- Developed and validated a random forest model for early Alzheimer’s risk prediction using structured demographic and clinical data.
+- Demonstrated end-to-end ML workflow: EDA, feature engineering, model tuning, evaluation, and ethical bias review.
+- **Key Results:** Reduced RMSE by X%; interpretable feature importances via SHAP; ethical mitigation plan included.
+- [Read Full Write-Up (PDF)](/assets/Wallace_D797_Writeup.pdf)
+- *Skills: Python, scikit-learn, Pandas, Random Forest, SHAP, Data Cleaning, Model Tuning*
+
+---
+
+**Air Quality Prediction & Model Optimization (D682)**
+- Built XGBoost and Random Forest models for air pollutant forecasting.
+- Applied advanced feature engineering, outlier handling, SHAP analysis, and hyperparameter tuning.
+- **Key Results:** Improved RMSE for PM2.5 by 3.5%; insights for city resource planning.
+- [Read Full Write-Up (PDF)](/assets/D682_Task_Final_Version.pdf)
+- *Skills: Python, XGBoost, Random Forest, scikit-learn, SHAP, Feature Engineering*
+
+---
+
+**Ambulance Dispatch Route Optimization (D795)**
+- Designed and implemented Dijkstra’s and Floyd-Warshall algorithms for emergency dispatch routing.
+- Compared algorithmic trade-offs, computational complexity, and real-world dispatch performance.
+- [Read Full Write-Up (PDF)](/assets/Task1_Applied_Algorithms.pdf)
+- *Skills: Python, Algorithms, Performance Analysis*
+
+---
+
+**Edge AI Capstone: Operator Fusion with MLIR**
+- Developed a custom operator fusion pass in MLIR to optimize real-time AI inference on edge devices.
+- Achieved measurable improvements in latency and memory use.
+- [Read Full Write-Up (PDF)](/assets/Capstone_Final_S_Wallace.pdf)
+- *Skills: MLIR, C++, Compiler Optimization, Edge ML, Docker*
 
 ## Private Academic Projects
 > **Note:** Project code is private due to school policy.  
@@ -51,7 +80,7 @@ Explore my work, read about my projects, and connect with me below.
 | **Java Frameworks (D287)**                     | Built Java apps with Spring & Hibernate, focusing on modular design, REST APIs, ORM data persistence.                                            | Java, Spring, Hibernate, REST, JUnit                  |
 | **Formal Languages Overview (D793)**           | Translated legacy Fortran scientific code into Python with full testing, validation, and professional documentation.                             | Fortran, Python, GitLab                               |
 | **Class Roster Management (C867)**             | C++ application managing student data: OOP, dynamic memory, parsing, validation, and filtering by degree program.                               | C++, OOP, Dynamic Memory                              |
-3. Education Section (Markdown)
+
 
 ## Education
 **Western Governors University (WGU)**  
