@@ -27,7 +27,7 @@ Explore my work, read about my projects, and connect with me below.
 - Git, GitHub, GitLab
 - MLOps, Experiment Tracking (MLflow, Hydra)
 - REST APIs, Modular Code Design
-- 
+  
 ## Project Write-Ups
 *In-depth analyses of selected academic and applied data science projects. Code available for review by potential employers upon request.*
 | Project | Description | Write-Up | Skills |
