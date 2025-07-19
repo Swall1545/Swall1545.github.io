@@ -1,5 +1,5 @@
 title: Sarah Wallace Portfolio
-theme: jekyll-theme-minimal
+
 
 navigation:
   - title: "About"
@@ -18,3 +18,5 @@ navigation:
     url: "https://gitlab.com/swall15"
   - title: "Handshake"
     url: "https://wgu.joinhandshake.com/profiles/h5vxsj"
+
+theme: jekyll-theme-minimal
