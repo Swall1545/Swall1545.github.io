@@ -63,9 +63,9 @@ Proposed and designed an MLIR operator-fusion pass to optimize edge inference. A
 
 ---
 
-<!--*For additional coursework-based projects in Java, C++, and Fortran, see [Academic Projects Overview →](/projects/academic-overview).*  -->
+<!--*For additional coursework-based projects in Java, C++, and Fortran, see [Academic Projects Overview →](/projects/academic-overview).*  
 
----
+--- -->
 
 <!--| Project Name                                   | Description                                                                                                                                      | Technologies                                          |
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -82,7 +82,9 @@ Proposed and designed an MLIR operator-fusion pass to optimize edge inference. A
 ## Education
 **Western Governors University (WGU)**  
 **M.S., Computer Science (AI/ML Specialization)** — Expected 2027
+
 **B.S., Computer Science (AI focus)** — 2025
+
 Honors: Certificates of Excellence (Project Development, Technical Communication, Lab Science) · Sigma Alpha Pi Honor Society
 
 **Relevant Coursework (selected):**  
